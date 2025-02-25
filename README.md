@@ -44,11 +44,11 @@ The CNN model performed better in detecting plant diseases and is recommended fo
    ```sh
    git clone https://github.com/your-username/Plant-Disease-Detection.git
    cd Plant-Disease-Detection
-2.Install dependencies:
+2. Install dependencies:
    ```sh
    pip install -r requirements.txt
 
-3.Run the Jupyter Notebook:
+3. Run the Jupyter Notebook:
    ```sh
    jupyter notebook PlantDiseaseDetection.ipynb
 
