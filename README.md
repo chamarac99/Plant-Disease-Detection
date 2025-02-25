@@ -46,7 +46,8 @@ The CNN model performed better in detecting plant diseases and is recommended fo
    cd Plant-Disease-Detection
 2.Install dependencies:
    ```sh
-    pip install -r requirements.txt
+   pip install -r requirements.txt
+
 3.Run the Jupyter Notebook:
    ```sh
    jupyter notebook PlantDiseaseDetection.ipynb
