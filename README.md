@@ -44,3 +44,26 @@ The CNN model performed better in detecting plant diseases and is recommended fo
    ```sh
    git clone https://github.com/your-username/Plant-Disease-Detection.git
    cd Plant-Disease-Detection
+2.Install dependencies:
+   ```sh
+    pip install -r requirements.txt
+3.Run the Jupyter Notebook:
+   ```sh
+   jupyter notebook PlantDiseaseDetection.ipynb
+
+
+
+## Dependencies
+- Python 3.x
+- TensorFlow / Keras
+- OpenCV
+- NumPy
+- Matplotlib
+
+## Future Improvements
+- Add more plant disease categories
+- Improve model generalization
+- Deploy as a web or mobile app
+
+## License
+This project is open-source under the MIT License.
